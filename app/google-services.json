@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "753601264418",
+    "project_id": "muni-agencia",
+    "storage_bucket": "muni-agencia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753601264418:android:f5d5a8d7decbd51698437b",
+        "android_client_info": {
+          "package_name": "com.example.agenciamuni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753601264418-gq1l9ek7val1t4hhrjcbsnvi13bmo48f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agenciamuni",
+            "certificate_hash": "97e66bffced1baf800d0202b8563551b8b0760c8"
+          }
+        },
+        {
+          "client_id": "753601264418-ir7dr3j250fhebggh4mftlotau73tv54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKsmMnpvYjnxYkgkQ0XVaN-6lgiG6xZiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753601264418-ir7dr3j250fhebggh4mftlotau73tv54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
